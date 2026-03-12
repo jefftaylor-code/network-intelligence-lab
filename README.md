@@ -48,3 +48,16 @@ Future experiments will explore:
 Jeff Taylor  
 Principal RF / Network Intelligence Engineer
 
+## Example Scripts
+
+### telemetry_hotspot_detector.py
+
+A simple prototype illustrating how telecom KPI data can be analyzed to detect potential network hotspots using rule-based logic.
+
+The script demonstrates how engineers might combine:
+
+• Drop call rate  
+• SINR measurements  
+• Throughput statistics  
+
+to identify potential network trouble spots across multiple sites.
