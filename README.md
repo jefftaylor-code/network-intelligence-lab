@@ -67,5 +67,13 @@ to identify potential network trouble spots across multiple sites.
 ### telemetry_hotspot_detector.py
 A simple prototype illustrating how telecom KPI data can be analyzed to detect potential network hotspots using rule-based logic.
 
+## Example Experiments
+
+- KPI anomaly detection using Python and pandas
+- Network hotspot detection from RF performance data
+- Telemetry exploration notebooks using Google Colab
+
+These experiments demonstrate simple prototypes that could evolve into larger network-intelligence and automation workflows for telecom network operations.
+
 ### kpi_anomaly_detection_demo.ipynb
 A notebook demonstrating basic KPI anomaly detection using hourly telecom performance data, threshold-based logic and a throughput visualization.
